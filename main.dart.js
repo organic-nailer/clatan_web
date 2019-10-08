@@ -40679,9 +40679,9 @@ NW:function(a){if(a>0)return C.qd
 else if(a===0)return C.w
 else return C.dv},
 NV:function(a){var u=null
-if(a>0)return U.Uq("image/YOUWIN_S.jpg",C.h7)
+if(a>0)return U.Uq("image/seikai.png",C.h7)
 else if(a===0)return L.bn("no image",u,u,u,u,u)
-else return U.Uq("image/YOULOSE_S.jpg",C.h7)},
+else return U.Uq("image/fuseikai.png",C.h7)},
 $aY:function(){return[M.iI]}}
 M.MY.prototype={
 $0:function(){var u,t=this.a
